@@ -1,0 +1,9 @@
+{
+    "source" : "extend",
+    "version" : "3.25.1",
+    "embed" : false,
+    "controllers" : {
+        "PolyfillIo" : "PolyfillIo.php"
+    },
+    "main_class" : "PolyfillIo"
+}

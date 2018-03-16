@@ -1,0 +1,8 @@
+{
+   "id" : "polyfill_io",
+   "version" : "3.25.1",
+   "description" : "Polyfill.io",
+   "categories" : ["polyfill", "development", "compatiblity"],
+   "compatible_from" : "2018.2",
+   "dependencies" : []
+}
